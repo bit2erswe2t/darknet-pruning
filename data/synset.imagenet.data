@@ -1,0 +1,7 @@
+classes=1000
+train  = data/inet.train.list
+valid  = data/imagenet1k.valid.list
+backup = backup/
+labels = data/synset.labels.list
+names  = data/synset.shortnames.list  
+top=5
