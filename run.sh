@@ -26,7 +26,7 @@ then
 fi
 
 
-image="data/eagle.jpg"
+image="data/giraffe.jpg"
 if (echo $* | grep -E 'jpg|JPEG' -q); then image=`echo $* | sed 's/ /\n/g' | grep -E 'jpg|JPEG'`; fi
 
 

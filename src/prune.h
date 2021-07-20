@@ -19,6 +19,8 @@ void prune_output_predict();
 void prune_output_valid(int, float, float, float, float);
 void prune_init();
 void prune_free();
+void prune_init_layer();
+void prune_output_layer();
 
 /*---------------  zeep ----------------*/
 #endif //__PRUNE_H__

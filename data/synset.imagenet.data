@@ -1,6 +1,6 @@
 classes=1000
 train  = data/inet.train.list
-valid  = data/imagenet1k.valid.list
+valid  = data/imagenet2.valid.list
 backup = backup/
 labels = data/synset.labels.list
 names  = data/synset.shortnames.list  

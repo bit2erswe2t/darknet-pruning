@@ -446,7 +446,9 @@ void backward_bias(float *bias_updates, float *delta, int batch, int n, int size
 
 void forward_convolutional_layer(convolutional_layer l, network net)
 {
-
+#ifdef PRUNE
+    prune_init_layer();
+#endif
     int i, j;
 
     fill_cpu(l.outputs*l.batch, 0, l.output, 1);
@@ -493,6 +495,10 @@ void forward_convolutional_layer(convolutional_layer l, network net)
 
     activate_array(l.output, l.outputs*l.batch, l.activation);
     if(l.binary || l.xnor) swap_binary(&l);
+
+#ifdef PRUNE
+    prune_output_layer();
+#endif
 }
 
 void backward_convolutional_layer(convolutional_layer l, network net)

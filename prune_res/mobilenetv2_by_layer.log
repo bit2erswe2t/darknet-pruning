@@ -1,0 +1,1791 @@
+----------------------------------- executing -----------------------------------
+./darknet classifier mvalid data/synset.imagenet.data cfg/mobilenetv2.cfg weights/mobilenetv2.weights data/giraffe.jpg   
+---------------------------------------------------------------------------------
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 1, 150528, 0, 0.000000
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 2, 401408, 62720, 0.156250
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 3, 401408, 50176, 0.125000
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 4, 401408, 50176, 0.125000
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 5, 200704, 0, 0.000000
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 6, 1204224, 87808, 0.072917
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 7, 301056, 34490, 0.114563
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 8, 75264, 0, 0.000000
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 9, 451584, 15680, 0.034722
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 10, 451584, 43904, 0.097222
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 11, 75264, 0, 0.000000
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 12, 451584, 25088, 0.055556
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 13, 112896, 7056, 0.062500
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 14, 25088, 0, 0.000000
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 15, 150528, 13328, 0.088542
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 16, 150528, 14896, 0.098958
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 17, 25088, 0, 0.000000
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 18, 150528, 12544, 0.083333
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 19, 150528, 13327, 0.088535
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 20, 25088, 0, 0.000000
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 21, 150528, 3920, 0.026042
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 22, 150528, 4704, 0.031250
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 23, 50176, 0, 0.000000
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 24, 301056, 24304, 0.080729
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 25, 301056, 25872, 0.085938
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 26, 50176, 0, 0.000000
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 27, 301056, 25870, 0.085931
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 28, 301056, 27437, 0.091136
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 29, 50176, 0, 0.000000
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 30, 301056, 37632, 0.125000
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 31, 301056, 36059, 0.119775
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 32, 50176, 0, 0.000000
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 33, 301056, 16464, 0.054688
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 34, 75264, 3332, 0.044271
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 35, 18816, 0, 0.000000
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 36, 112896, 7839, 0.069436
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 37, 112896, 9604, 0.085069
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 38, 18816, 0, 0.000000
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 39, 112896, 10388, 0.092014
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 40, 112896, 11956, 0.105903
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 41, 18816, 0, 0.000000
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 42, 112896, 6468, 0.057292
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 43, 28224, 1862, 0.065972
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 44, 7840, 0, 0.000000
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 45, 47040, 3626, 0.077083
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 46, 47040, 4900, 0.104167
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 47, 7840, 0, 0.000000
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 48, 47040, 4753, 0.101042
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 49, 47040, 7154, 0.152083
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 50, 7840, 0, 0.000000
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 51, 47040, 3773, 0.080208
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 52, 47040, 5194, 0.110417
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 53, 15680, 0, 0.000000
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 54, 1280, 117, 0.091406
+****** **************************** ******
+
+****** Predict Pruned test result ******
+feature: param, zero, ch, zero_ch, prune_ch, prune_param
+9012576, 3389613, 17091, 1402, 1402, 714421
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 55, 150528, 0, 0.000000
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 56, 401408, 112874, 0.281195
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 57, 401408, 62651, 0.156078
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 58, 401408, 50176, 0.125000
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 59, 200704, 0, 0.000000
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 60, 1204224, 100352, 0.083333
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 61, 301056, 37632, 0.125000
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 62, 75264, 0, 0.000000
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 63, 451584, 28194, 0.062434
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 64, 451584, 56448, 0.125000
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 65, 75264, 0, 0.000000
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 66, 451584, 28207, 0.062462
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 67, 112896, 7835, 0.069400
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 68, 25088, 0, 0.000000
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 69, 150528, 13325, 0.088522
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 70, 150528, 18012, 0.119659
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 71, 25088, 0, 0.000000
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 72, 150528, 13325, 0.088522
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 73, 150528, 14110, 0.093737
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 74, 25088, 0, 0.000000
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 75, 150528, 3920, 0.026042
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 76, 150528, 4704, 0.031250
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 77, 50176, 0, 0.000000
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 78, 301056, 26641, 0.088492
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 79, 301056, 29786, 0.098938
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 80, 50176, 0, 0.000000
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 81, 301056, 26650, 0.088522
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 82, 301056, 32908, 0.109309
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 83, 50176, 0, 0.000000
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 84, 301056, 40760, 0.135390
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 85, 301056, 41541, 0.137984
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 86, 50176, 0, 0.000000
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 87, 301056, 23475, 0.077976
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 88, 75264, 4704, 0.062500
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 89, 18816, 0, 0.000000
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 90, 112896, 8229, 0.072890
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 91, 112896, 11562, 0.102413
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 92, 18816, 0, 0.000000
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 93, 112896, 10976, 0.097222
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 94, 112896, 13908, 0.123193
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 95, 18816, 0, 0.000000
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 96, 112896, 11161, 0.098861
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 97, 28224, 2744, 0.097222
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 98, 7840, 0, 0.000000
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 99, 47040, 3822, 0.081250
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 100, 47040, 5880, 0.125000
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 101, 7840, 0, 0.000000
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 102, 47040, 4508, 0.095833
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 103, 47040, 7497, 0.159375
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 104, 7840, 0, 0.000000
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 105, 47040, 5390, 0.114583
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 106, 47040, 6713, 0.142708
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 107, 15680, 0, 0.000000
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 108, 1280, 184, 0.143750
+****** **************************** ******
+
+****** Predict Pruned test result ******
+feature: param, zero, ch, zero_ch, prune_ch, prune_param
+9012576, 3263506, 17091, 1692, 1692, 870804
+****** **************************** ******
+
+****** Valid Pruned test result ****** 2 3389613.000000
+AVG feature: param, zero, ch, zero_ch, prune_ch, prune_param, epsilon, avg_time, top1, top5
+zeepres, 4506288.000000, 1694806.500000, 8545.500000, 701.000000, 701.000000, 357210.500000, 0.000000, 0.241441, 0.500000, 1.000000
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 109, 150528, 0, 0.000000
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 110, 401408, 62720, 0.156250
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 111, 401408, 62709, 0.156223
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 112, 401408, 62720, 0.156250
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 113, 200704, 0, 0.000000
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 114, 1204224, 100352, 0.083333
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 115, 301056, 37632, 0.125000
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 116, 75264, 0, 0.000000
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 117, 451584, 28223, 0.062498
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 118, 451584, 43904, 0.097222
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 119, 75264, 0, 0.000000
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 120, 451584, 25088, 0.055556
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 121, 112896, 8624, 0.076389
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 122, 25088, 0, 0.000000
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 123, 150528, 14112, 0.093750
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 124, 150528, 15680, 0.104167
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 125, 25088, 0, 0.000000
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 126, 150528, 12544, 0.083333
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 127, 150528, 14895, 0.098952
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 128, 25088, 0, 0.000000
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 129, 150528, 4704, 0.031250
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 130, 150528, 7056, 0.046875
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 131, 50176, 0, 0.000000
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 132, 301056, 24304, 0.080729
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 133, 301056, 29008, 0.096354
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 134, 50176, 0, 0.000000
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 135, 301056, 28223, 0.093747
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 136, 301056, 31357, 0.104157
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 137, 50176, 0, 0.000000
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 138, 301056, 41550, 0.138014
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 139, 301056, 40763, 0.135400
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 140, 50176, 0, 0.000000
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 141, 301056, 18032, 0.059896
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 142, 75264, 5684, 0.075521
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 143, 18816, 0, 0.000000
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 144, 112896, 9212, 0.081597
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 145, 112896, 10780, 0.095486
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 146, 18816, 0, 0.000000
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 147, 112896, 10780, 0.095486
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 148, 112896, 13328, 0.118056
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 149, 18816, 0, 0.000000
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 150, 112896, 7644, 0.067708
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 151, 28224, 2450, 0.086806
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 152, 7840, 0, 0.000000
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 153, 47040, 4165, 0.088542
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 154, 47040, 5635, 0.119792
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 155, 7840, 0, 0.000000
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 156, 47040, 5439, 0.115625
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 157, 47040, 8036, 0.170833
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 158, 7840, 0, 0.000000
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 159, 47040, 4557, 0.096875
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 160, 47040, 6272, 0.133333
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 161, 15680, 0, 0.000000
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 162, 1280, 163, 0.127344
+****** **************************** ******
+
+****** Predict Pruned test result ******
+feature: param, zero, ch, zero_ch, prune_ch, prune_param
+9012576, 3541669, 17091, 1403, 1639, 808345
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 163, 150528, 0, 0.000000
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 164, 401408, 112875, 0.281198
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 165, 401408, 75143, 0.187199
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 166, 401408, 62720, 0.156250
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 167, 200704, 0, 0.000000
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 168, 1204224, 125395, 0.104129
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 169, 301056, 40768, 0.135417
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 170, 75264, 0, 0.000000
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 171, 451584, 40743, 0.090222
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 172, 451584, 56448, 0.125000
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 173, 75264, 0, 0.000000
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 174, 451584, 31318, 0.069351
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 175, 112896, 9404, 0.083298
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 176, 25088, 0, 0.000000
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 177, 150528, 14109, 0.093730
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 178, 150528, 18796, 0.124867
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 179, 25088, 0, 0.000000
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 180, 150528, 13328, 0.088542
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 181, 150528, 15678, 0.104153
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 182, 25088, 0, 0.000000
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 183, 150528, 4704, 0.031250
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 184, 150528, 7056, 0.046875
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 185, 50176, 0, 0.000000
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 186, 301056, 27422, 0.091086
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 187, 301056, 33700, 0.111939
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 188, 50176, 0, 0.000000
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 189, 301056, 28218, 0.093730
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 190, 301056, 36829, 0.122333
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 191, 50176, 0, 0.000000
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 192, 301056, 43118, 0.143223
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 193, 301056, 46245, 0.153609
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 194, 50176, 0, 0.000000
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 195, 301056, 25041, 0.083177
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 196, 75264, 7252, 0.096354
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 197, 18816, 0, 0.000000
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 198, 112896, 9406, 0.083316
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 199, 112896, 13128, 0.116284
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 200, 18816, 0, 0.000000
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 201, 112896, 11172, 0.098958
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 202, 112896, 15476, 0.137082
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 203, 18816, 0, 0.000000
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 204, 112896, 12534, 0.111023
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 205, 28224, 3479, 0.123264
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 206, 7840, 0, 0.000000
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 207, 47040, 4508, 0.095833
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 208, 47040, 6615, 0.140625
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 209, 7840, 0, 0.000000
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 210, 47040, 5243, 0.111458
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 211, 47040, 8281, 0.176042
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 212, 7840, 0, 0.000000
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 213, 47040, 6223, 0.132292
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 214, 47040, 7742, 0.164583
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 215, 15680, 0, 0.000000
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 216, 1280, 251, 0.196094
+****** **************************** ******
+
+****** Predict Pruned test result ******
+feature: param, zero, ch, zero_ch, prune_ch, prune_param
+9012576, 3445053, 17091, 1700, 1959, 980368
+****** **************************** ******
+
+****** Valid Pruned test result ****** 2 3541669.000000
+AVG feature: param, zero, ch, zero_ch, prune_ch, prune_param, epsilon, avg_time, top1, top5
+zeepres, 4506288.000000, 1770834.500000, 8545.500000, 701.500000, 819.500000, 404172.500000, 0.010000, 0.188969, 0.500000, 1.000000
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 217, 150528, 0, 0.000000
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 218, 401408, 62720, 0.156250
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 219, 401408, 75236, 0.187430
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 220, 401408, 75264, 0.187500
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 221, 200704, 0, 0.000000
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 222, 1204224, 150504, 0.124980
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 223, 301056, 37632, 0.125000
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 224, 75264, 0, 0.000000
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 225, 451584, 43896, 0.097205
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 226, 451584, 43904, 0.097222
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 227, 75264, 0, 0.000000
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 228, 451584, 34496, 0.076389
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 229, 112896, 8624, 0.076389
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 230, 25088, 0, 0.000000
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 231, 150528, 17248, 0.114583
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 232, 150528, 17248, 0.114583
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 233, 25088, 0, 0.000000
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 234, 150528, 15674, 0.104127
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 235, 150528, 16456, 0.109322
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 236, 25088, 0, 0.000000
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 237, 150528, 7833, 0.052037
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 238, 150528, 7840, 0.052083
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 239, 50176, 0, 0.000000
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 240, 301056, 29792, 0.098958
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 241, 301056, 29792, 0.098958
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 242, 50176, 0, 0.000000
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 243, 301056, 32141, 0.106761
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 244, 301056, 32144, 0.106771
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 245, 50176, 0, 0.000000
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 246, 301056, 43115, 0.143213
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 247, 301056, 43120, 0.143229
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 248, 50176, 0, 0.000000
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 249, 301056, 24291, 0.080686
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 250, 75264, 6076, 0.080729
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 251, 18816, 0, 0.000000
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 252, 112896, 9996, 0.088542
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 253, 112896, 11170, 0.098941
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 254, 18816, 0, 0.000000
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 255, 112896, 12151, 0.107630
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 256, 112896, 14499, 0.128428
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 257, 18816, 0, 0.000000
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 258, 112896, 9994, 0.088524
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 259, 28224, 2548, 0.090278
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 260, 7840, 0, 0.000000
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 261, 47040, 4655, 0.098958
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 262, 47040, 6321, 0.134375
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 263, 7840, 0, 0.000000
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 264, 47040, 6517, 0.138542
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 265, 47040, 8967, 0.190625
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 266, 7840, 0, 0.000000
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 267, 47040, 5782, 0.122917
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 268, 47040, 7742, 0.164583
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 269, 15680, 0, 0.000000
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 270, 1280, 362, 0.282813
+****** **************************** ******
+
+****** Predict Pruned test result ******
+feature: param, zero, ch, zero_ch, prune_ch, prune_param
+9012576, 4039930, 17091, 1419, 2051, 955750
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 271, 150528, 0, 0.000000
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 272, 401408, 112885, 0.281223
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 273, 401408, 87749, 0.218603
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 274, 401408, 75264, 0.187500
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 275, 200704, 0, 0.000000
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 276, 1204224, 163062, 0.135408
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 277, 301056, 40768, 0.135417
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 278, 75264, 0, 0.000000
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 279, 451584, 56432, 0.124965
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 280, 451584, 56448, 0.125000
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 281, 75264, 0, 0.000000
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 282, 451584, 40733, 0.090200
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 283, 112896, 10975, 0.097213
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 284, 25088, 0, 0.000000
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 285, 150528, 18805, 0.124927
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 286, 150528, 21148, 0.140492
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 287, 25088, 0, 0.000000
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 288, 150528, 14896, 0.098958
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 289, 150528, 16463, 0.109368
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 290, 25088, 0, 0.000000
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 291, 150528, 7056, 0.046875
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 292, 150528, 7833, 0.052037
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 293, 50176, 0, 0.000000
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 294, 301056, 32908, 0.109309
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 295, 301056, 36047, 0.119735
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 296, 50176, 0, 0.000000
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 297, 301056, 34479, 0.114527
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 298, 301056, 40735, 0.135307
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 299, 50176, 0, 0.000000
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 300, 301056, 47018, 0.156177
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 301, 301056, 51720, 0.171795
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 302, 50176, 0, 0.000000
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 303, 301056, 35202, 0.116928
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 304, 75264, 9211, 0.122383
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 305, 18816, 0, 0.000000
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 306, 112896, 11561, 0.102404
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 307, 112896, 14306, 0.126718
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 308, 18816, 0, 0.000000
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 309, 112896, 13129, 0.116293
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 310, 112896, 17238, 0.152689
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 311, 18816, 0, 0.000000
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 312, 112896, 17623, 0.156099
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 313, 28224, 4459, 0.157986
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 314, 7840, 0, 0.000000
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 315, 47040, 5341, 0.113542
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 316, 47040, 7644, 0.162500
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 317, 7840, 0, 0.000000
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 318, 47040, 6615, 0.140625
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 319, 47040, 9310, 0.197917
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 320, 7840, 0, 0.000000
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 321, 47040, 8134, 0.172917
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 322, 47040, 9408, 0.200000
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 323, 15680, 0, 0.000000
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 324, 1280, 471, 0.367969
+****** **************************** ******
+
+****** Predict Pruned test result ******
+feature: param, zero, ch, zero_ch, prune_ch, prune_param
+9012576, 4064543, 17091, 1752, 2510, 1143076
+****** **************************** ******
+
+****** Valid Pruned test result ****** 2 4039930.000000
+AVG feature: param, zero, ch, zero_ch, prune_ch, prune_param, epsilon, avg_time, top1, top5
+zeepres, 4506288.000000, 2019965.000000, 8545.500000, 709.500000, 1025.500000, 477875.000000, 0.100000, 0.193760, 0.500000, 1.000000
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 325, 150528, 0, 0.000000
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 326, 401408, 238195, 0.593399
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 327, 401408, 137881, 0.343493
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 328, 401408, 87755, 0.218618
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 329, 200704, 0, 0.000000
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 330, 1204224, 275488, 0.228768
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 331, 301056, 78386, 0.260370
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 332, 75264, 0, 0.000000
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 333, 451584, 287875, 0.637478
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 334, 451584, 304123, 0.673458
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 335, 75264, 0, 0.000000
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 336, 451584, 194103, 0.429827
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 337, 112896, 49377, 0.437367
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 338, 25088, 0, 0.000000
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 339, 150528, 142620, 0.947465
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 340, 150528, 141116, 0.937473
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 341, 25088, 0, 0.000000
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 342, 150528, 135577, 0.900676
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 343, 150528, 138751, 0.921762
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 344, 25088, 0, 0.000000
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 345, 150528, 104943, 0.697166
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 346, 150528, 87804, 0.583307
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 347, 50176, 0, 0.000000
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 348, 301056, 267308, 0.887901
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 349, 301056, 277497, 0.921745
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 350, 50176, 0, 0.000000
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 351, 301056, 275918, 0.916501
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 352, 301056, 283012, 0.940064
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 353, 50176, 0, 0.000000
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 354, 301056, 286123, 0.950398
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 355, 301056, 278316, 0.924466
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 356, 50176, 0, 0.000000
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 357, 301056, 264945, 0.880052
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 358, 75264, 46059, 0.611966
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 359, 18816, 1568, 0.083333
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 360, 112896, 97998, 0.868038
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 361, 112896, 103291, 0.914922
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 362, 18816, 392, 0.020833
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 363, 112896, 102108, 0.904443
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 364, 112896, 102899, 0.911449
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 365, 18816, 196, 0.010417
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 366, 112896, 107012, 0.947881
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 367, 28224, 20237, 0.717014
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 368, 7840, 4410, 0.562500
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 369, 47040, 46893, 0.996875
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 370, 47040, 46452, 0.987500
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 371, 7840, 2842, 0.362500
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 372, 47040, 46893, 0.996875
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 373, 47040, 45668, 0.970833
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 374, 7840, 2695, 0.343750
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 375, 47040, 46697, 0.992708
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 376, 47040, 39543, 0.840625
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 377, 15680, 13328, 0.850000
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 378, 1280, 1014, 0.792188
+****** **************************** ******
+
+****** Predict Pruned test result ******
+feature: param, zero, ch, zero_ch, prune_ch, prune_param
+9012576, 7616473, 17091, 7662, 14143, 5215308
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 379, 150528, 0, 0.000000
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 380, 401408, 238171, 0.593339
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 381, 401408, 200162, 0.498650
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 382, 401408, 150503, 0.374938
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 383, 200704, 0, 0.000000
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 384, 1204224, 475859, 0.395158
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 385, 301056, 147202, 0.488952
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 386, 75264, 0, 0.000000
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 387, 451584, 372946, 0.825862
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 388, 451584, 376247, 0.833172
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 389, 75264, 0, 0.000000
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 390, 451584, 322706, 0.714609
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 391, 112896, 69768, 0.617985
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 392, 25088, 0, 0.000000
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 393, 150528, 140322, 0.932199
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 394, 150528, 138765, 0.921855
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 395, 25088, 0, 0.000000
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 396, 150528, 134047, 0.890512
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 397, 150528, 134056, 0.890572
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 398, 25088, 0, 0.000000
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 399, 150528, 115226, 0.765479
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 400, 150528, 103479, 0.687440
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 401, 50176, 4702, 0.093710
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 402, 301056, 279871, 0.929631
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 403, 301056, 286158, 0.950514
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 404, 50176, 783, 0.015605
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 405, 301056, 280624, 0.932132
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 406, 301056, 284585, 0.945289
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 407, 50176, 0, 0.000000
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 408, 301056, 286151, 0.950491
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 409, 301056, 279104, 0.927083
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 410, 50176, 0, 0.000000
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 411, 301056, 273577, 0.908725
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 412, 75264, 45276, 0.601562
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 413, 18816, 1372, 0.072917
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 414, 112896, 98783, 0.874991
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 415, 112896, 103292, 0.914931
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 416, 18816, 588, 0.031250
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 417, 112896, 100937, 0.894071
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 418, 112896, 101527, 0.899297
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 419, 18816, 391, 0.020780
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 420, 112896, 105447, 0.934019
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 421, 28224, 19894, 0.704861
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 422, 7840, 2940, 0.375000
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 423, 47040, 45815, 0.973958
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 424, 47040, 45913, 0.976042
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 425, 7840, 1715, 0.218750
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 426, 47040, 46403, 0.986458
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 427, 47040, 45521, 0.967708
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 428, 7840, 1323, 0.168750
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 429, 47040, 46158, 0.981250
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 430, 47040, 39690, 0.843750
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 431, 15680, 12740, 0.812500
+****** **************************** ******
+
+****** Predict layer test result ******
+layer feature (no, param, prune_param): 432, 1280, 1001, 0.782031
+****** **************************** ******
+
+****** Predict Pruned test result ******
+feature: param, zero, ch, zero_ch, prune_ch, prune_param
+9012576, 7563508, 17091, 7867, 14194, 5961740
+****** **************************** ******
+
+****** Valid Pruned test result ****** 2 7616473.000000
+AVG feature: param, zero, ch, zero_ch, prune_ch, prune_param, epsilon, avg_time, top1, top5
+zeepres, 4506288.000000, 3808236.500000, 8545.500000, 3831.000000, 7071.500000, 2607654.000000, 1.000000, 0.150484, 0.000000, 0.000000
+****** **************************** ******
