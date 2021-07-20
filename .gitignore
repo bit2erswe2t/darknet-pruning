@@ -1,9 +1,9 @@
+!.gitignore
+
 *.o
 *.dSYM
 *.csv
 *.out
-*.png
-*.jpg
 *.pyc
 darknet
 .fuse*
@@ -19,4 +19,4 @@ Thumbs.db
 weights/ 
 log/
 *.log
-!.gitignore
+
