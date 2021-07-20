@@ -18,4 +18,5 @@ Thumbs.db
 
 weights/ 
 log/
+*.log
 !.gitignore
