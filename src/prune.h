@@ -4,8 +4,8 @@
 #include "darknet.h"
 
 /*---------------  zeep ----------------*/
-#define BITMAP_PRUNE_SIZE 66536
-#define PRUNE_TEST_LEN 4
+#define BITMAP_PRUNE_SIZE 200000
+#define PRUNE_TEST_LEN 1
 
 extern int *bitmap_prune;
 extern int *bitmap_prune_gpu;
